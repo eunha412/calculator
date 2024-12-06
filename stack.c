@@ -4,7 +4,7 @@
 #include <string.h>
 
 
-int assignment=22
+int assignment=22;
 
 Stack * create_stack(int initial_size)
 {
